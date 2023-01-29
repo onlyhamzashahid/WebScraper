@@ -1,4 +1,4 @@
-# FastScrape
+# WebScraper
 ### A simple web scraper written in python and beautifulfoup.
 
 <br>

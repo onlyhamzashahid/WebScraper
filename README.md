@@ -163,14 +163,7 @@ options:
 # Issues
 ## Feel free to submit issues with bugs that need fixing or with new features that you wish to be added.
 
-<br>
 
-## You can also reach me trough my socials:
-- Email: strykez_1@protonmail.com
-- Discord: [Roshy#5849](https://discord.com/)
-- Twitter: [@strykez_dev](https://twitter.com/strykez_dev)
-
-<br>
 
 # License
 ### This repo is created under the MIT Licence.
